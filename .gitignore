@@ -308,3 +308,4 @@ paket-files/
 
 # Databricks file
 *.pyi
+.vscode/settings.json
